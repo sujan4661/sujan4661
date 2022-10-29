@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan Roy</h1>
 <h3 align="center">A full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan4661&label=Profile%20views&color=0e75b6&style=flat" alt="sujan4661" /> </p>
-
 - 🔭 I’m currently working on **Fiverr And Upwork**
 
 - 👨‍💻 All of my projects are available at [https://www.programmersujan.com](https://www.programmersujan.com)
@@ -32,8 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/John Abraham"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="John Abraham" /></a><a href="https://ko-fi.com/Sabbir Khan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sabbir Khan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan4661&show_icons=true&locale=en&layout=compact" alt="sujan4661" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan4661&show_icons=true&locale=en" alt="sujan4661" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan4661&" alt="sujan4661" /></p>
