@@ -1,6 +1,6 @@
 ![logo](https://github.com/sujan4661/sujan4661/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Sujan Roy</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">I am a full stack web developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan4661&label=Profile%20views&color=0e75b6&style=flat" alt="sujan4661" /> </p>
