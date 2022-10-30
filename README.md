@@ -1,4 +1,4 @@
-![logo](https://github.com/sujan4661/sujan4661/blob/main/Welcome%20to%20my%20profile.png)
+![logo](https://github.com/sujan4661/sujan4661/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Sujan Roy</h1>
 <h3 align="center">A full stack web developer</h3>
 
