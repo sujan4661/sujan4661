@@ -1,21 +1,21 @@
 ![logo](https://github.com/sujan4661/sujan4661/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Sujan Roy</h1>
-<h3 align="center">I am a full stack web developer</h3>
+<h3 align="center">I am a Full Stack Digital Marketer, SEO Expert, Certified Facebook And Google Ads Partner</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan4661&label=Profile%20views&color=0e75b6&style=flat" alt="sujan4661" /> </p>
 
 - 🔭 I’m currently working on **Fiverr And Upwork**
 
-- 👨‍💻 All of my projects are available at [https://www.programmersujan.com](https://www.programmersujan.com)
+- 👨‍💻 All of my projects are available at [sujan-roy4661.blogspot.com](sujan-roy4661.blogspot.com)
 
-- 📝 I regularly write articles on [https://www.programmersujan.com](https://www.programmersujan.com)
+- 📝 I regularly write articles on [sujan-roy4661.blogspot.com](sujan-roy4661.blogspot.com)
 
 - 💬 Ask me about **PHP, Laravel, React, Vue, Node js**
 
-- 📫 How to reach me **https://www.programmersujan.com**
+- 📫 How to reach me **sujan-roy4661.blogspot.com**
 
-- 📄 Know about my experiences [https://www.programmersujan.com](https://www.programmersujan.com)
+- 📄 Know about my experiences [sujan-roy4661.blogspot.com](sujan-roy4661.blogspot.com)
 
 - ⚡ Fun fact **I am funny😊**
 
