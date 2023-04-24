@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [sujan-roy4661.blogspot.com](sujan-roy4661.blogspot.com)
 
-- 💬 Ask me about **PHP, Laravel, React, Vue, Node js**
+- 💬 Ask me about **Digital Marketing**
 
 - 📫 How to reach me **sujan-roy4661.blogspot.com**
 
